@@ -1,47 +1,26 @@
-# 🏆 Competencias de Kaggle
+# 🏆 Kaggle Competitions
 
-Este repositorio contiene soluciones, notebooks y análisis para diversas competencias de Kaggle. Aquí se abordan múltiples tipos de problemas en ciencia de datos, incluyendo clasificación, regresión, series temporales, procesamiento de lenguaje natural y visión por computadora.
+This repository contains solutions, notebooks, and analyses for various Kaggle competitions. It addresses multiple types of problems in data science, including classification, regression, time series, natural language processing, and computer vision.
+---
+### 🔢 1. Classification
 ---
 
-
-
-### 🔢 1. Clasificación (Classification)
-
-
----
-
-### 📈 2. Regresión (Regression)
+### 📈 2. Regression
 
 - House Prices - Advanced Regression Techniques
-
 ---
 
-### 🕒 3. Series Temporales (Time Series)
-
-
-
+### 🕒 3. Time Series
 ---
 
-### 💬 4. Procesamiento de Lenguaje Natural (NLP)
-
-
-
+### 💬 4. Natural Language Processing
 ---
 
-### 👁️ 5. Visión por Computadora (Computer Vision)
-
-
-
+### 👁️ 5. Computer Vision
 ---
 
-### 🎰 6. Competencias Tabulares (Tabular Data)
-
-
+### 🎰 6. Tabular Data
 ---
 
-### 🧠 7. Aprendizaje No Supervisado
-
-
-
+### 🧠 7. Unsupervised Learning
 ---
-
