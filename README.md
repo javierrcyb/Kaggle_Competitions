@@ -19,8 +19,5 @@ This repository contains solutions, notebooks, and analyses for various Kaggle c
 ### 👁️ 5. Computer Vision
 ---
 
-### 🎰 6. Tabular Data
----
-
-### 🧠 7. Unsupervised Learning
+### 🧠 6. Unsupervised Learning
 ---
