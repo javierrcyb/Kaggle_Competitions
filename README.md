@@ -6,14 +6,13 @@ Este repositorio contiene soluciones, notebooks y análisis para diversas compet
 
 
 ### 🔢 1. Clasificación (Classification)
-- House Prices - Advanced Regression Techniques
 
 
 ---
 
 ### 📈 2. Regresión (Regression)
 
-
+- House Prices - Advanced Regression Techniques
 
 ---
 
