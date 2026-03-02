@@ -3,6 +3,8 @@
 This repository contains solutions, notebooks, and analyses for various Kaggle competitions. It addresses multiple types of problems in data science, including classification, regression, time series, natural language processing, and computer vision.
 ---
 ### 🔢 1. Classification
+- Predict Customer Churn
+- New York City Taxi Trip Duration
 ---
 
 ### 📈 2. Regression
